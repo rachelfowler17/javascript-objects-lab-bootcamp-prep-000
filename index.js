@@ -1,1 +1,1 @@
-var obj = {recipes};
+var obj = {recipes:'eggs'};
