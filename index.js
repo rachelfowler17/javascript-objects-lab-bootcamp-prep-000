@@ -1,6 +1,5 @@
 var recipes = {breakfast: 'eggs'}; 
 function updateObjectWithKeyAndValue (object,key,value) {'eggs','bacon', '2 cups'}
 
-recipes = {breakfast: 'eggs,cheese'}; 
 
-function updateObjectWithKeyAndValue (object, key, value) {'eggs', 'cheese', '2 cups'} 
+function updateObjectWithKeyAndValue (recipe,cheese:"1 cup") 
