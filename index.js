@@ -1,1 +1,1 @@
-var recipes = {eggs,bacon,cheese,roll};
+var objrecipes = {eggs,bacon,cheese,roll};
