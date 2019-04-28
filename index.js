@@ -1,1 +1,1 @@
-var recipe = {eggs,bacon,cheese,roll} 
+var recipes = {eggs,bacon,cheese,roll} 
