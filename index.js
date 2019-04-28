@@ -1,1 +1,1 @@
-var recipes = {recipes:'eggs'};
+var recipes = {breakfast: 'eggs'} 
